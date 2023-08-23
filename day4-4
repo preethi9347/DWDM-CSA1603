@@ -1,0 +1,7 @@
+persons<-c(gopu,babu,baby,gopal,krishna,jai,dev,malini,hema,anu)
+num_vegitarian<-7
+num_non_vegitarian<-3
+if (num_vegitarian>num_non_vegitarian){
+  print("vegitarian type is greater")
+} else {
+  print("non-vegitarian type is greater")}
