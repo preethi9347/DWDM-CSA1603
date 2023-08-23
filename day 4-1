@@ -1,0 +1,11 @@
+@relation customersupermartket
+@attribute gender{m,f}
+@attribute age numeric
+@attribute annual_income numeric
+@attribute spending_score numeric
+@data
+m,19,15,39
+m,21,15,81
+f,20,16,6
+f,23,16,77
+f,31,17,40
