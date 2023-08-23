@@ -1,0 +1,13 @@
+@relation transactions
+@attribute bread{yes,no}
+@attribute cheese{yes,no}
+@attribute egg{yes,no}
+@attribute juice{yes,no}
+@attribute milk{yes,no}
+@attribute yogurt{yes,no}
+@data
+yes,yes,yes,yes,no,no
+yes,yes,no,yes,no,no
+yes,no,no,no,yes,yes
+yes,no,no,yes,yes,no
+no,yes,no,yes,yes,no
